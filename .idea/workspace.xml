@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e95497e5-f89d-4ca0-bcc2-0fa710873c7c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1p1HyXXGtJF88VLjrrTk6qd8o5q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="R28M61JAHJH" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-03-01T15:34:18.558Z" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="emulator" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e95497e5-f89d-4ca0-bcc2-0fa710873c7c" name="Default Changelist" comment="" />
+      <created>1614343930215</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614343930215</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="630" y="126" key="#Unnamed" timestamp="1614612880556">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state x="630" y="126" key="#Unnamed/0.0.1842.1080/1920.0.1858.1080@0.0.1842.1080" timestamp="1614612880556" />
+    <state x="375" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1614612938792">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state x="375" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1842.1080/1920.0.1858.1080@0.0.1842.1080" timestamp="1614612938792" />
+    <state x="91" y="92" width="1660" height="896" key="AVDManager" timestamp="1614660915427">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state x="91" y="92" width="1660" height="896" key="AVDManager/0.0.1842.1080/1920.0.1858.1080@0.0.1842.1080" timestamp="1614613390421" />
+    <state x="91" y="92" width="1660" height="896" key="AVDManager/0.0.1842.1080/1920.0.1858.1080@1920.0.1858.1080" timestamp="1614660915427" />
+    <state x="2074" y="92" width="1674" height="896" key="AVDManager/0.0.1842.1080/1982.0.1858.1080@1982.0.1858.1080" timestamp="1614344314697" />
+    <state x="740" y="286" key="AndroidProcessChooserDialog" timestamp="1614613128423">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state x="740" y="286" key="AndroidProcessChooserDialog/0.0.1842.1080/1920.0.1858.1080@0.0.1842.1080" timestamp="1614613128423" />
+    <state x="401" y="114" key="SettingsEditor" timestamp="1614613167123">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state x="401" y="114" key="SettingsEditor/0.0.1842.1080/1920.0.1858.1080@0.0.1842.1080" timestamp="1614613167123" />
+    <state x="577" y="250" key="run.anything.popup" timestamp="1614612825180">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state x="577" y="250" key="run.anything.popup/0.0.1842.1080/1920.0.1858.1080@0.0.1842.1080" timestamp="1614612825180" />
+  </component>
+</project>
